@@ -1,0 +1,14 @@
+D:\MacEwan\C#\Assignment_3\bin\Debug\net8.0\Assignment_3.exe
+D:\MacEwan\C#\Assignment_3\bin\Debug\net8.0\Assignment_3.deps.json
+D:\MacEwan\C#\Assignment_3\bin\Debug\net8.0\Assignment_3.runtimeconfig.json
+D:\MacEwan\C#\Assignment_3\bin\Debug\net8.0\Assignment_3.dll
+D:\MacEwan\C#\Assignment_3\bin\Debug\net8.0\Assignment_3.pdb
+D:\MacEwan\C#\Assignment_3\obj\Debug\net8.0\Assignment_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\C#\Assignment_3\obj\Debug\net8.0\Assignment_3.AssemblyInfoInputs.cache
+D:\MacEwan\C#\Assignment_3\obj\Debug\net8.0\Assignment_3.AssemblyInfo.cs
+D:\MacEwan\C#\Assignment_3\obj\Debug\net8.0\Assignment_3.csproj.CoreCompileInputs.cache
+D:\MacEwan\C#\Assignment_3\obj\Debug\net8.0\Assignment_3.dll
+D:\MacEwan\C#\Assignment_3\obj\Debug\net8.0\refint\Assignment_3.dll
+D:\MacEwan\C#\Assignment_3\obj\Debug\net8.0\Assignment_3.pdb
+D:\MacEwan\C#\Assignment_3\obj\Debug\net8.0\Assignment_3.genruntimeconfig.cache
+D:\MacEwan\C#\Assignment_3\obj\Debug\net8.0\ref\Assignment_3.dll
